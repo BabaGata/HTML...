@@ -1,0 +1,100 @@
+p {
+font-family: Verdana;
+font-size: 14pt;
+text-align: justify;
+margin-left: 35px;
+}
+
+
+h1{
+color:#AF3133;
+}
+
+
+h2{
+text-align: center;
+color: skyblue;
+font-style: italic;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+
+hr{
+border: 1px dashed lightblue;
+}
+
+
+ol{
+list-style: upper-roman;
+}
+
+
+ul{
+list-style: square;
+}
+
+img{
+display:block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+border: 4px solid #d00404;
+border-radius: 12px;
+}
+
+
+a:link{
+font-family: Bookman Old Style;
+color: lightblue;
+}
+
+
+a:hover{
+text-decoration: none;
+color: white;
+background-color: lightblue;
+font-style: italic;
+}
+
+
+a:visited{
+color: red;
+font: bold;
+}
+
+
+table {
+border: 2px solid blue;
+border-collapse: collapse;
+}
+
+
+td{
+border: 2px solid blue;
+padding: 5px
+}
+
+
+th{
+color: lightblue;
+background-color: darkblue;
+}
+
+
+
+.nazivi{
+font-weight: bold;
+color: darkblue;
+text-align: center;
+}
+
+
+.bojanje_retka{
+background-color: lightblue;
+}
+
+
+body{
+background-image: url("Images/pozadina.png");
+}

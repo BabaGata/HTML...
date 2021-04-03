@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+
+<h1>RestoranVintage</h1>
+
+<figure>
+<img src="Images/restoran.jpg" alt="Restoran Vintage" width="300">
+<br><figcaption>Preuzeto sa stranice <a target="_blank" href="https://pixabay.com/">Pixabay</a></figcaption>
+</figure>
+<hr>
+
+</head>
+<body>
+
+
+<h2>O nama</h2>
+<hr>
+<p><em>Restoran Vintage</em> prva je destinacija kada su u pitanju tradicionalni specijaliteti kontinentalne i mediteranske kuhinje. Ponosimo se cinjenicom da jela spremamo po <strong>tradicionalnim recepturama</strong>, ali na moderan nacin pri cemu se ponuda stalno mijenja i nadopunjenje <strong>atraktivnim dnevnim ponudama</strong> jela od odabranih sezonskih namirnica.</p>
+<br/>
+<h2>Mogucnost rezervacije</h2>
+<hr>
+<p>Ako ste rezervirali svoje mjesto, prilikom Vašeg dolaska ce se medu rezervacijama potražiti Vaše ime i odvesti ce Vas se do Vašeg stola. Broj telefona i mogucnost rezervacije ima baš svaki restoran pa je, dakako, najbolje i najjednostavnije svoj dolazak unaprijed najaviti, pogotovo u doba rucka i vecere kada je u restoranu najveca gužva.</p>
+<br/>
+<h2>Catering</h2>
+<hr>
+<p>Mi cemo se pobrinuti za hranu, a Vi uživajte. <em>Restoran Vintage</em> pruža prvoklasnu uslugu cateringa koji se može prirediti u našem lokalu ili na Vaš zahtjev u prostoru Vaše tvrtke, kuce ili unaprijed dogovorenom prostoru s kapacitetom do 500 osoba.
+<br/>Catering može biti izraden za razlicite evente kao što su proslava rodendana, matura, svatovi, poslovni sastanci i sl.
+</p>
+<br/>
+
+
+<h2>Ponuda dana</h2>
+<hr>
+<ol>
+  <li>Menu 1
+    <ul>
+    <li>Dimljeni tartar od cikle</li>
+    <li>Risotto od šparoga</li>
+    </ul>
+  </li>
+  <li>Menu 2
+    <ul>
+    <li>Usoljeni žumanjak s kremom od jogurta</li>
+    <li>Pačja prsa,shiitake, koromač, pire od suhih smokvi</li>
+    </ul>
+  </li>
+  <li>Menu 3
+    <ul>
+    <li>Krem juha od crvene paprike</li>
+    <li>Pačji confit s crvenim kupusom</li>
+    </ul>
+  </li>
+</ol> 
+<br/>
+
+
+<table>
+  <tr>
+    <th colspan="2">Kontaktirajte nas</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Adresa:</td>
+    <td>Restoran Vintage</td>
+  </tr>
+  <tr>
+    <td>Ulica Ivana Kumičića 1</td>
+  </tr>
+  <tr>
+    <td>51000 Rijeka</td>
+  </tr>
+  <tr>
+    <td>Broj telefona:</td>
+    <td>+385 51 522 550</td>
+  </tr>
+  <tr>
+    <td>E-mail:</td>
+    <td><a href="mailto:vintage@info.hr">vintage@info.hr</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Radno vrijeme:</td>
+    <td>Pon-Sub:11.00-00.00h</td>
+  </tr>
+  <tr>
+    <td>Nedjeljom zatvoreno</td>
+  </tr>
+</table>
+
+</body>
+</html>
